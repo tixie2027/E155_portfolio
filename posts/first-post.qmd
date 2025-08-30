@@ -1,0 +1,10 @@
+---
+title: "Hello Quarto"
+description: "Welcome to my Quarto portfolio"
+author: "Tian Xie"
+date: "8/29/25"
+categories:
+  - reflection
+  - labreport
+draft: false
+---

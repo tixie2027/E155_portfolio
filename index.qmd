@@ -1,0 +1,17 @@
+---
+title: "E155 Portfolio"
+about:
+  template: jolla
+  image: images/headshot.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/tixie2027
+---
+
+Tian Xie is a junior at Harvey Mudd College who is interested in embedded systems and robotics
+
+## Education
+
+Harvey Mudd College | Claremont, CA
+Engineering | Sept 2023 - June 2027

@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "Labs/lab1.html",
+    "href": "Labs/lab1.html",
+    "title": "Lab 1 Report",
+    "section": "",
+    "text": "✅ Development board is fully assembled (all parts soldered)\n\n✅ Verilog module to control LEDs and a 7-segment display written\n\n✅ FPGA programmed with Verilog code\n\n✅ 7-segment display can display all sixteen hexadecimal digits (0x0–0xF)\n\n✅ All digits are unique (e.g., 0x6 and 0xB are different shapes)\n\n✅ DIP switches are arranged so that each adjacent switch controls the next bit\n\n✅ LEDs display the specified logic operations properly"
+  },
+  {
+    "objectID": "Labs/lab1.html#schematic",
+    "href": "Labs/lab1.html#schematic",
+    "title": "Lab 1 Report",
+    "section": "Schematic",
+    "text": "Schematic\n\nFPGA board schematic drawn\n\nPin names & numbers labeled\n\n7-segment display, switches, and 3 LEDs mapped correctly"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "E155 Blog",
+    "section": "",
+    "text": "Hello Quarto\n\n\nWelcome to my Quarto portfolio, week 1 reflection to come\n\n\n\n\n\nAug 29, 2025\n\n\nTian Xie\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "E155 Portfolio",
@@ -14,31 +42,10 @@
     "text": "Education\nHarvey Mudd College | Claremont, CA Engineering | Sept 2023 - June 2027"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "E155 Blog",
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "E155 Labs",
     "section": "",
     "text": "Hello Quarto\n\n\nWelcome to my Quarto portfolio, week 1 reflection to come\n\n\n\n\n\nAug 29, 2025\n\n\nTian Xie\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Labs/lab1.html",
-    "href": "Labs/lab1.html",
-    "title": "Lab 1 Report",
-    "section": "",
-    "text": "✅ Development board is fully assembled (all parts soldered)\n\n✅ Verilog module to control LEDs and a 7-segment display written\n\n✅ FPGA programmed with Verilog code\n\n✅ 7-segment display can display all sixteen hexadecimal digits (0x0–0xF)\n\n✅ All digits are unique (e.g., 0x6 and 0xB are different shapes)\n\n✅ DIP switches are arranged so that each adjacent switch controls the next bit\n\n✅ LEDs display the specified logic operations properly"
-  },
-  {
-    "objectID": "Labs/lab1.html#schematic",
-    "href": "Labs/lab1.html#schematic",
-    "title": "Lab 1 Report",
-    "section": "Schematic",
-    "text": "Schematic\n\nFPGA board schematic drawn\n\nPin names & numbers labeled\n\n7-segment display, switches, and 3 LEDs mapped correctly"
   }
 ]

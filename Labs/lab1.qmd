@@ -1,0 +1,10 @@
+---
+title: "Lab 1"
+description: "MicroP Lab 1, powering the FPGA"
+author: "Tian Xie"
+date: "9/03/25"
+categories:
+  - reflection
+  - labreport
+draft: false
+---

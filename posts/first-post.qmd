@@ -1,10 +1,40 @@
 ---
-title: "Hello Quarto"
-description: "Welcome to my Quarto portfolio"
-author: "Tian Xie"
-date: "8/29/25"
-categories:
-  - reflection
-  - labreport
-draft: false
+title: "Lab 1 Report"
+author: "Tianhong Xie"
 ---
+
+# Proficiency Checklist
+
+- ✅ Development board is fully assembled (all parts soldered)  
+- ✅ Verilog module to control LEDs and a 7-segment display written  
+- ✅ FPGA programmed with Verilog code  
+- ✅ 7-segment display can display all sixteen hexadecimal digits (0x0–0xF)  
+- ✅ All digits are unique (e.g., 0x6 and 0xB are different shapes)  
+- ✅ DIP switches are arranged so that each adjacent switch controls the next bit  
+- ✅ LEDs display the specified logic operations properly  
+
+# Questa Simulation
+
+- Implemented `Top.sv` module  
+- Implemented `7segment.sv` module  
+
+## Schematic
+
+- FPGA board schematic drawn  
+- Pin names & numbers labeled  
+- 7-segment display, switches, and 3 LEDs mapped correctly  
+
+# Current Calculations & AI Prototype Notes
+
+The AI-assisted Verilog code generation was partially successful but not fully correct.  
+- It produced modules that compiled but required repeated debugging.  
+- The AI often used unnecessarily verbose constructs (e.g., `localparam int unsigned` instead of simply `int`).  
+- Some statements like `parameter int unsigned` seemed suspicious and less clear than straightforward `input logic`.  
+- Errors had to be manually diagnosed and corrected despite iterative feedback to the model.  
+
+# Reflections
+
+This lab reinforced:  
+- The importance of schematic-to-code consistency (pin mapping, logic correctness).  
+- Practical debugging skills in Verilog when AI tools generate overly complex syntax.  
+- Awareness that while AI can accelerate prototyping, human verification is essential.  

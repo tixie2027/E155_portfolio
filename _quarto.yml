@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - href: blog.qmd
-        text: Blog
+        text: Labs
       - href: labs.qmd
         text: Labs
 
